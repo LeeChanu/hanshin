@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "689441776533",
+    "project_id": "hanshin-97768",
+    "storage_bucket": "hanshin-97768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689441776533:android:dd6540519a544fad90cc9c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5AMid105JRmB9diFkTnElo7qvNmyHtBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689441776533:android:e8788aad4ea01fd290cc9c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5AMid105JRmB9diFkTnElo7qvNmyHtBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689441776533:android:b492a6f84280280e90cc9c",
+        "android_client_info": {
+          "package_name": "com.hongdroid.firebaselistexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5AMid105JRmB9diFkTnElo7qvNmyHtBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
